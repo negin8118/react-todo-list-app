@@ -2,8 +2,8 @@
 
 A simple and clean Todo List application built with React.
 
-## 🔗 Live Demo
-
+## Live Demo
+https://my-react-todo-list8118.netlify.app/
 
 ## ✨ Features
 - Add new tasks
